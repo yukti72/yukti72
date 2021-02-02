@@ -26,6 +26,6 @@ and write Tech Blogs on Medium. I love coding real-time projects and participati
 - ⚡ Consider my work at <a href='https://github.com/yukti72'>GitHub </a>
 
 
-👯 Thank you for viewing my Git Profile!
+👯 Thank you for viewing my GitHub Profile!
  
  
